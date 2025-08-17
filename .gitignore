@@ -12,3 +12,9 @@ dist/
 .local/
 node_modules/
 dist/
+# Local environment variables
+.env
+
+# Local database
+local.db
+drizzle/
