@@ -1,0 +1,69 @@
+[
+  {
+    "id": "fda-device-2025-001",
+    "title": "Class II Recall: Philips MRI System Software Update",
+    "description": "Software issue affecting image quality in certain Philips MRI systems manufactured between 2020-2023",
+    "source": "FDA Device Recall",
+    "date": "2025-01-15T08:00:00Z",
+    "manufacturer": "Philips Healthcare",
+    "model": "Ingenia MRI",
+    "category": "Urgent",
+    "score": 85,
+    "confidence": "High",
+    "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm",
+    "summary": "Check your Philips MRI systems for software version 5.7.1 and contact Philips for immediate update to prevent image quality issues."
+  },
+  {
+    "id": "cms-pfs-70553-2025",
+    "title": "CPT 70553 Rate Change: +2.8%",
+    "description": "MRI Brain with contrast rate increased from $289.45 to $297.56 effective January 2025",
+    "source": "CMS Physician Fee Schedule",
+    "date": "2025-01-10T06:00:00Z",
+    "cptCode": "70553",
+    "oldRate": 289.45,
+    "newRate": 297.56,
+    "deltaPercent": 2.8,
+    "category": "Informational",
+    "score": 72,
+    "confidence": "High",
+    "link": "https://www.cms.gov/medicare/physician-fee-schedule"
+  },
+  {
+    "id": "fda-drug-shortage-gadolinium",
+    "title": "Drug Shortage: Gadolinium-based Contrast Agents",
+    "description": "Manufacturing delays affecting multiple gadolinium contrast agents used in MRI imaging",
+    "source": "FDA Drug Shortage",
+    "date": "2025-01-12T10:00:00Z",
+    "category": "Informational",
+    "score": 78,
+    "confidence": "High",
+    "drugType": "contrast_agent",
+    "alternatives": ["Alternative contrast protocols", "Lower dose protocols"]
+  },
+  {
+    "id": "cms-2025-pfs-comment",
+    "title": "CMS 2026 Physician Fee Schedule Comment Period",
+    "description": "Due: 2025-03-15 (58 days). Action: Submit comments on proposed imaging payment changes",
+    "source": "Federal Register",
+    "date": "2025-01-15T07:00:00Z",
+    "dueDate": "2025-03-15",
+    "daysUntil": 58,
+    "actionRequired": "Submit comments on proposed imaging payment changes",
+    "category": "Digest",
+    "score": 65,
+    "confidence": "High",
+    "link": "https://www.federalregister.gov"
+  },
+  {
+    "id": "vendor-siemens-security-2025",
+    "title": "Security Update for MAGNETOM Systems",
+    "description": "Critical security patch for network vulnerability in MAGNETOM MRI systems",
+    "source": "Siemens Healthcare",
+    "date": "2025-01-14T09:00:00Z",
+    "vendor": "Siemens",
+    "category": "Important",
+    "score": 80,
+    "confidence": "High",
+    "link": "https://www.siemens-healthineers.com/support/cybersecurity"
+  }
+]

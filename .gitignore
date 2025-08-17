@@ -1,0 +1,14 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz.local/
+.local/
+DEST/
+.local/
+node_modules/
+dist/
+.local/
+node_modules/
+dist/
